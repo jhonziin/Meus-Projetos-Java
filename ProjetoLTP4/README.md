@@ -1,3 +1,3 @@
-# Projeto da Faculdade em Linguagem de Programação 4
+# Projeto da Faculdade em JAVA
 JAVA WEB
 JSP - JDBC - CRUD - INTERAÇÃO - SERVLET
